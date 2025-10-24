@@ -3,8 +3,8 @@
 ## Introduction
 I am a highly motivated, self-taught software engineer predominantly learning front-end technologies with a keen interest in becoming a full-stack developer.
 
-🔭 I'm currently working on ShowHub. A movies and TV Series hub / catalogue built with React and TypeScript.
-🌱 I'm currently learning Node and backend concepts.
+🔭 I'm currently working on HealthStack. A fitness tracking API built with Node.js, Express, and TypeScript. Tracks workouts, health metrics, and progress data.
+🌱 I'm currently learning backend concepts & AWS.
 
 ## Technical Skills
 - JavaScript
